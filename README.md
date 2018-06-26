@@ -9,11 +9,15 @@ Hyper-parameter optimization has always been a popular field in the Machine Lear
 
 ## Table of Contents
 
-- [Architecture Search](#architecture-search)
-  - [Reinforcement Learning](#reinforcement-learning)
-  - [Evolutionary Algorithm](#evolutionary-algorithm)
-  - [Others](#others)
-- [Hyper-parameter Search](#hyper-parameter-search)
+- [Awesome Architecture Search ![Awesome](https://awesome.re)](#awesome-architecture-search-awesomehttpsawesomere)
+  - [Table of Contents](#table-of-contents)
+  - [Architecture Search](#architecture-search)
+    - [Reinforcement Learning](#reinforcement-learning)
+    - [Evolutionary Algorithm](#evolutionary-algorithm)
+    - [Others](#others)
+  - [Hyper-Parameter Search](#hyper-parameter-search)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Architecture Search
 
@@ -29,7 +33,7 @@ Hyper-parameter optimization has always been a popular field in the Machine Lear
 - Practical Network Blocks Design with Q-Learning [[pdf]](https://arxiv.org/abs/1708.05552)
   - Zhao Zhong, Junjie Yan, Cheng-Lin Liu. *AAAI'18*
 - Efficient Neural Architecture Search via Parameter Sharing [[pdf]](https://arxiv.org/abs/1802.03268) [[code (not official)]](https://github.com/carpedm20/ENAS-pytorch) [[code (official)]](https://github.com/melodyguan/enas)
-  - Hieu Pham, Melody Y. Guan, Barret Zoph, Quoc V. Le, Jeff Dean. *Arxiv 1802*
+  - Hieu Pham, Melody Y. Guan, Barret Zoph, Quoc V. Le, Jeff Dean. *Arxiv 1802* [[slides]](enas-slides.pdf)
 
 ### Evolutionary Algorithm
 - Large-Scale Evolution of Image Classifiers [[pdf]](https://arxiv.org/abs/1703.01041)
